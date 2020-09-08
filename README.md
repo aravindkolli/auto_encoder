@@ -1,1 +1,1 @@
-# sample auto enocder code
+# sample auto encoder code
